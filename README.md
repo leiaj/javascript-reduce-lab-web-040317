@@ -3,7 +3,7 @@
 
 ## Overview
 
-This lab will give you practice using a reduce function and iterating over different abstractions. 
+This lab will give you practice using a reduce function and iterating over different abstractions.
 
 
 ## Introduction
